@@ -6,6 +6,6 @@
   "author": "Raj Vasikarla <raj_vasikarla@intuit.com>",
   "license": "MIT",
   "dependencies": {
-    "axiom": "^0.1.6"
+    "axios": "^0.18.0"
   }
 }
